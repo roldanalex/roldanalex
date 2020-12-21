@@ -8,7 +8,7 @@
 
   <img align="left" alt="roldanalex's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=roldanalex&show_icons=true&hide_border=true" />
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roldanalex&show_icons=true&theme=radical)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roldanalex&show_icons=true&count_private=true&hide_border=true)
 
 
 
