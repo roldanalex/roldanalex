@@ -1,4 +1,4 @@
-# Hi there! :wave:
+# Hello there!
 
 I'm Alexis, a Data Scientist and Software Developer.
 
