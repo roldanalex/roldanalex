@@ -1,15 +1,17 @@
 # Alexis Roldan
 
-**`Full-Stack Data Scientist | Business Intelligence Expert | Software Developer`**
+**`Full-Stack Data Scientist | Business Intelligence Expert | Software Developer | Project Leader`**
 
-A Full-Stack Data Scientist & Software Developer passionate about using Advance Data Analytics and Statistical Models to analyze complex questions and support data-driven decisions.
+Hello!
 
-On my GitHub profile, I share some of my projects which include building a [portfolio website](https://https://alexisroldan.netlify.app/) :computer:.
+I'm Alexis Roldan, a Full-Stack Data Scientist & Software Developer passionate about using Advance Data Analytics and Statistical Models to analyze complex questions and support data-driven decisions.
+
+Please take a look at my [portfolio website](https://https://alexisroldan.netlify.app/) :computer: or Github Page for some of my latest work.
 
 ### Connect with me:
 
-[<img align="left" alt="roldan_al | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="alexis-roldan-ds | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="roldan_al | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="left" alt="alexis-roldan-ds | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
 
@@ -27,8 +29,6 @@ On my GitHub profile, I share some of my projects which include building a [port
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
