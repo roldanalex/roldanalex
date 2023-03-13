@@ -4,7 +4,7 @@
 
 Hello!
 
-I'm Alexis Roldan, a Full-Stack Data Scientist & Software Developer passionate about using Advance Data Analytics and Statistical Models to analyze complex questions and support data-driven decisions.
+I'm a Full-Stack Data Scientist & Software Developer passionate about using Advance Data Analytics and Statistical Models to analyze complex questions and support data-driven decisions.
 
 Please take a look at my [portfolio website](https://https://alexisroldan.netlify.app/) :computer: or Github Page for some of my latest work.
 
@@ -29,7 +29,6 @@ Please take a look at my [portfolio website](https://https://alexisroldan.netlif
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
