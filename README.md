@@ -41,6 +41,9 @@ Please take a look at my [portfolio website](https://https://alexisroldan.netlif
 
 ### 📊 My Stats:
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roldanalex&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roldanalex&theme=github_dark)
 ![Alexis Roldan's github stats](https://github-readme-stats.vercel.app/api?username=roldanalex&show_icons=true&theme=algolia&count_private=true&hide_border=true)
 
 
