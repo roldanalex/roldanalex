@@ -43,8 +43,8 @@ Please take a look at my [portfolio website](https://alexisroldan.netlify.app/) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roldanalex&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roldanalex&theme=github_dark)
-![Alexis Roldan's Github Stats](https://github-readme-stats-roldanalex.vercel.app/api?username=roldanalex&show_icons=true&theme=algolia&count_private=true&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roldanalex&theme=github_dark)
+![Alexis Roldan's Github Stats](https://github-readme-stats-roldanalex.vercel.app/api?username=roldanalex&show_icons=true&count_private=true&theme=transparent&hide=issues&rank_icon=github)
 
 
 [twitter]: https://twitter.com/roldan_al
