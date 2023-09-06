@@ -6,7 +6,7 @@ Hello!
 
 I'm a Full-Stack Data Scientist & Software Developer passionate about using Advance Data Analytics and Statistical Models to analyze complex questions and support data-driven decisions.
 
-Please take a look at my [portfolio website](https://alexisroldan.netlify.app/) :computer: or Github Page for some of my latest work.
+Please take a look at my [portfolio website](https://alexisroldan-ds.netlify.app/) :computer: or Github Page for some of my latest work.
 
 ### Connect with me:
 
