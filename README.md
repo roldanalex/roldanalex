@@ -18,7 +18,8 @@
 | Platform | What it is |
 | --- | --- |
 | **AMIRA** | Flagship R/Shiny manufacturing analytics platform — integrates batch historian, process historian, laboratory, and ERP data into one operational view for the site |
-| **BioTrack** | Quality GenAI platform — its hybrid retrieval system over four years of quality records (2,213 records → 31,577 vector chunks) cut investigation search from ~30 minutes to ~2 minutes |
+| **Horizon** | Quality-management dashboard over deviation and CAPA records — natural-language text-to-SQL chat, fiscal-year KPI scorecards with drill-downs, and (since v1.2.0) the hybrid RAG deviation search absorbed from the decommissioned DevSight app: retrieval over four years of quality records (2,213 records → 31,577 vector chunks) that cut investigation search from ~30 minutes to ~2 minutes |
+| **BioTrack** | Manufacturing GenAI platform for microbial investigations — a deterministic nine-rule root-cause engine over manufacturing, laboratory, and ERP maintenance data (multiple-comparison correction, measured base rates), plus its own scoped RAG deviation search built on the same retrieval engine as Horizon's |
 | **TOMO** | Multimodal conversational AI assistant embedded in the site's analytics platforms — streaming responses, vision, and voice |
 
 *These run in a regulated environment on my employer's private GitHub Enterprise, so the code can't be public — happy to talk architecture.*
@@ -30,6 +31,7 @@
 | Project | What it is | Link |
 | --- | --- | --- |
 | **Shiny Cost Estimator** | Interactive COCOMO II cost estimator for R Shiny and data science projects — analyze a repo or enter line counts, get cost/schedule/team estimates and a branded PDF report (v2.0.0, MIT — 42% cost cliffs eliminated) | [Repo](https://github.com/roldanalex/shiny-cost-estimator) |
+| **Aether Wardrobe** | AI wardrobe assistant — a deterministic TypeScript engine generates outfit combinations; the LLM only scores and explains them (Next.js, React 19, Supabase) | [Repo](https://github.com/roldanalex/fashion-helper-app) · [Live app](https://aether-wardrobe.vercel.app) |
 | **{RIOT}** | R/Shiny Image OCR Technology — upload an image, interactively select regions, and extract editable text in real time via the Tesseract engine | [Repo](https://github.com/roldanalex/riot-shiny-app) |
 | **{roldanpack}** | Personal R package of helpers for daily analytics and visualization work | [Repo](https://github.com/roldanalex/roldanpack) |
 | **TubeScout** | Python/Streamlit app that surfaces high-signal YouTube videos independent of the algorithm by analyzing view-to-subscriber ratios | [Repo](https://github.com/roldanalex/TubeScout) |
